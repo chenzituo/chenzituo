@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chenzituo, a third year undergraduate in CCE, Tsinghua Univ. Just starting my journey in science!
-- 👀 I’m interested in combustion and more specifically detonation; right now searching for chance to integrate data science into physics explorations
-- 🌱 I’m currently learning reinforce learning and detonation chemistry!
+- 👋 Hi, I’m @chenzituo, a senior undergraduate in CCE, Tsinghua Univ. Just starting my journey in science!
+- 👀 I’m interested in neural ODEs and detonation; right now searching for chance to integrate data science into physics!
+- 🌱 I’m currently learning transformations, reinforce learning and detonation physics!
 - 💞️ I’m looking to learning new exciting things here, and one day I'll devote myself to the community!
 - 📫 How to reach me: czt19@mails.tsinghua.edu.cn
 
