@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chenzituo, a master student of MIT, MechE. Just starting my journey in science!
-- Focusing on the carbon nanotube(CNT) research. My ingredients include: atomistic simulations, quantum mechanics, scientific machine learning, chemical kinetics, dynamical systems.
+- 👋 Hi, I’m @chenzituo, a grad student in MIT, MechE ever since 2023.
+- Focusing on AI4PDE and AI4MD research.
 
 <!---
 chenzituo/chenzituo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
